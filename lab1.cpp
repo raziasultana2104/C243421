@@ -7,7 +7,7 @@ int main()
 {
     int n = 0;
     cin >> n;
-    int arr[n];
+    int arr[1000];
     inputArray(arr, n);
     int val;
     cin >> val;
