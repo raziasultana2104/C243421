@@ -1,6 +1,7 @@
 #include <iostream>
 #include <algorithm>
 using namespace std;
+//o/1 knapscack
 struct item
 {
     int id;

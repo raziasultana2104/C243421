@@ -1,6 +1,7 @@
 #include <iostream>
 #include <algorithm>
 using namespace std;
+//rod cutting
 struct item
 {
     int id;
